@@ -28,15 +28,15 @@ input[type="password"], input[type="number"] {
     margin: 40px 0;
     border: none;
     border-radius: 5px;
-    background-color: #89878a;
-    color: #847196;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 button {
     padding: 10px 40px;
     border: none;
     border-radius: 10px;
-    background-color: #292222;
+    background-color: #615a5a;
     color: #ffffff;
     font-weight: bold;
     cursor: pointer;
